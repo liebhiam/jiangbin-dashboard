@@ -1,0 +1,19 @@
+{
+  "name": "江斌的工作台",
+  "short_name": "江斌",
+  "description": "科研日常：文献进度、实验安排、实验记录与健康打卡",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f1419",
+  "theme_color": "#161b22",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
